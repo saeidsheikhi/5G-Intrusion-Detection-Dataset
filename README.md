@@ -21,9 +21,8 @@ This dataset was created as part of the research published in the papers listed 
 
 The primary way to give credit for this dataset is by citing the associated peer-reviewed papers where it was used:
 
-1.  **Sheikhi, S., & Kostakos, P. (2024).** *Safeguarding cyberspace: Enhancing malicious website detection with pso-optimized xgboost and firefly-based feature selection.* Computers & Security, 103885.
-2.  **Sheikhi, S., & Kostakos, P. (2024).** *Advancing Security in 5G Core Networks through Unsupervised Federated Time Series Modeling.*
-3.  **Sheikhi, S., & Kostakos, P. (2023).** *DDoS attack detection using unsupervised federated learning for 5G networks and beyond.* In 2023 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit) (pp. 442-447).
+1.  **Sheikhi, S., & Kostakos, P. (2024).** *Advancing Security in 5G Core Networks through Unsupervised Federated Time Series Modeling.*
+2.  **Sheikhi, S., & Kostakos, P. (2023).** *DDoS attack detection using unsupervised federated learning for 5G networks and beyond.* In 2023 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit) (pp. 442-447).
 
 ## Dataset Description
 
