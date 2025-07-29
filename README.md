@@ -1,4 +1,4 @@
-# 5G-intrusion-detection-dataset
+# 5G Intrusion Detection Dataset
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A public dataset of 5G core network traffic for intrusion detection research, generated with Open5GS and featuring multiple attack types.
