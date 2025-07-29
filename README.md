@@ -13,9 +13,6 @@ This dataset was created as part of the research published in the papers listed 
 - [Data Dictionary](#data-dictionary)
 - [How to Cite](#how-to-cite)
 - [License](#license)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
 
 ## Related Publications
 
