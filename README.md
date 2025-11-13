@@ -69,10 +69,6 @@ except FileNotFoundError:
 
 ## File Structure
 
-The data files are large and should be hosted on a service like Google Drive, Kaggle, or using Git LFS.
-
-**Download Link:** [**INSERT YOUR DOWNLOAD LINK HERE**]
-
 The data is provided in multiple CSV files:
 * `Train_subset_1.csv` & `Train_subset_2.csv`: These contain training data and can be used separately or combined into a larger training set.
 * `Test_Data.csv`: A unified test set containing all traffic types for evaluating the final model.
